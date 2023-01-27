@@ -1,0 +1,110 @@
+﻿City,Ranking,Change,Smart City Rating 2020,Smart City Rank 2019,Smart City Rating 2019,Country,Continent,Population
+Abu Dhabi ,42,14,BB ,56,B ,UAE,Asia,1450000
+Abuja ,107,-10,D ,97,D ,Nigeria,Africa,1235880
+Amsterdam ,9,2,A ,11,A ,The Netherlands,Europe,1149000
+Ankara ,57,17,B ,74,CCC ,Turkey,Asia,5700000
+Athens ,99,-4,C ,95,C ,Europe,Europe,664046
+Auckland ,4,2,AA ,6,A ,New Zealand,Oceania,1657000
+Bangkok ,71,4,CCC ,75,CCC ,Thailand,Asia,8281000
+Barcelona ,49,-1,BB ,48,BB ,Spain,Europe,1620000
+Beijing ,82,-22,CC ,60,B ,China,Asia,21540000
+Bengaluru ,95,-16,C ,79,CC ,India,Asia,8426000
+Berlin ,38,1,BBB ,39,BBB ,Germany,Europe,3645000
+Bilbao ,24,-15,BBB ,9,A ,Spain,Europe,345821
+Birmingham ,40,12,BBB ,52,BB ,UK,Europe,1149000
+Bogota ,92,6,CC ,98,D ,Colombia,South America,7413000
+Bologna ,70,-52,CCC ,18,BBB ,Italy,Europe,388367
+Boston ,36,-4,BBB ,32,BBB ,US,North America,694583
+Bratislava ,76,8,CCC ,84,CC ,Slovakia,Europe,424428
+Brisbane ,14,13,A ,27,BBB ,Australia,Oceania,2280000
+Brussels ,60,4,B ,64,B ,Belgium,Europe,174383
+Bucharest ,87,-2,CC ,85,CC ,Romania,Europe,1830000
+Budapest ,77,6,CCC ,83,CC ,Hungary,Europe,1752286
+Buenos Aires ,88,-1,CC ,87,CC ,Argentina,South America,15154000
+Busan ,46,4,BB ,50,BB ,South Korea,Asia,3400000
+Cairo ,106,-7,D ,99,D ,Egypt,Africa,9120000
+Cape Town ,103,-10,D ,93,C ,South Africa,Africa,4520000
+Chengdu ,69,-11,CCC ,58,B ,China,Asia,16330000
+Chicago ,41,12,BBB ,53,BB ,US,North America,2706000
+Chongqing ,64,-22,CCC ,42,BB ,China,Asia,30480000
+Copenhagen ,6,-1,AA ,5,AA ,Denmark,Europe,602481
+Denver ,35,-2,BBB ,33,BBB ,US,North America,716492
+Dubai ,43,2,BB ,45,BB ,UAE,Asia,3331000
+Dublin ,34,-4,BBB ,30,BBB ,Ireland,Europe,544107
+Dusseldorf ,13,-3,A ,10,A ,Germany,Europe,619294
+Geneva ,7,-3,AA ,4,AA ,Switzerland,Europe,198979
+Gothenburg ,31,-3,BBB ,28,BBB ,Sweden,Europe,570000
+Guangzhou ,68,-11,CCC ,57,B ,China,Asia,14904400
+Hamburg ,22,new,A,,,Germany,Europe,1841000
+Hangzhou ,65,-21,CCC ,44,BB ,China,Asia,10360000
+Hanoi ,84,-18,CC ,66,CCC ,Vietnam,Asia,8054000
+Hanover ,33,-7,BBB ,26,BBB ,Germany,Europe,532163
+Helsinki ,2,6,AA ,8,A ,Finland,Europe,631695
+Ho Chi Minh City ,83,-18,CC ,65,CCC ,Vietnam,Asia,8993000
+Hong Kong ,32,5,BBB ,37,BBB ,China,Asia,7451000
+Hyderabad ,85,-18,CC ,67,CCC ,India,Asia,6810000
+Jakarta ,94,-13,C ,81,CC ,Indonesia,Asia,9608000
+Kiev ,98,-6,C ,92,C ,Ukraine,Europe,2884000
+Krakow ,58,11,B ,69,CCC ,Poland,Europe,766683
+Kuala Lumpur ,54,16,B ,70,CCC ,Malaysia,Asia,1808000
+Lagos ,109,-7,D ,102,D ,Nigeria,Africa,21000000
+Lisbon ,75,1,CCC ,76,CCC ,Portugal,Europe,504718
+London ,15,5,A ,20,BBB ,UK,Europe,8982000
+Los Angeles ,26,9,BBB ,35,BBB ,US,North America,3990000
+Lyon ,51,-28,BB ,23,BBB ,France,Europe,513275
+Madrid ,45,-24,BB ,21,BBB ,Spain,Europe,3223000
+Makassar ,96,-16,C ,80,CC ,Indonesia,Asia,1339000
+Manchester ,17,new,A,,,UK,Europe,553230
+Manila ,104,-10,D ,94,C ,Philippines,Asia,1780000
+Marseille ,78,new,CCC ,,,France,Europe,861635
+Medan ,97,-15,C ,82,CC ,Indonesia,Asia,2098000
+Medellin ,72,19,CCC ,91,C ,Colombia,South America,2427000
+Melbourne ,20,4,A ,24,BBB ,Australia,Oceania,4936000
+Mexico City ,90,-2,CC ,88,CC ,Mexico,North America,8855000
+Milan ,74,-52,CCC ,22,BBB ,Italy,Europe,1352000
+Montreal ,21,-5,A ,16,A ,Canada,North America,1780000
+Moscow ,56,16,B ,72,CCC ,Russia,Europe,11920000
+Mumbai ,93,-15,C ,78,CC ,India,Asia,18410000
+Munich ,11,new,A,,,Germany,Europe,1472000
+Nairobi ,108,-8,D ,100,D ,Kenya,Africa,4397000
+Nanjing ,66,-11,CCC ,55,B ,China,Asia,8506000
+New Delhi ,86,-18,CC ,68,CCC ,India,Asia,21750000
+New York ,10,28,A ,38,BBB ,US,North America,8399000
+Newcastle ,23,new,A,,,UK,Europe,322278
+Osaka ,80,-17,CCC ,63,B ,Japan,Asia,2691000
+Oslo ,5,-2,AA ,3,AA ,Norway,Europe,634293
+Paris ,61,-10,B ,51,BB ,France,Europe,2161000
+Philadelphia ,52,2,BB ,54,BB ,US,North America,1584000
+Phoenix ,39,new,BBB ,BBB ,,US,North America,1660000
+Prague ,44,-25,BB ,19,BBB ,Czechia,Europe,1309000
+Rabat ,105,-4,D ,101,D ,Morocco,Africa,577827
+Rio de Janeiro ,102,-6,C ,96,C ,Brazil,South America,6320000
+Riyadh ,53,18,B ,71,CCC ,Saudi Arabia,Asia,5188000
+Rome ,101,-24,C ,77,CCC ,Italy,Europe,2873000
+Rotterdam ,29,7,BBB ,36,BBB ,The Netherlands,Europe,623652
+San Francisco ,27,-15,BBB ,12,A ,US,North America,883305
+Santiago ,91,-5,CC ,86,CC ,Chile,South America,5614000
+Sao Paulo ,100,-10,C ,90,CC ,Brazil,South America,12180000
+Seattle ,37,-3,BBB ,34,BBB ,US,North America,744955
+Seoul ,47,0,BB ,47,BB ,South Korea,Asia,9776000
+Shanghai ,81,-22,CC ,59,B ,China,Asia,24280000
+Shenzhen ,67,-24,CCC ,43,BB ,China,Asia,12530000
+Singapore ,1,0,AAA ,1,AAA ,Singapore ,Asia,5639000
+Sofia ,89,0,CC ,89,CC ,Bulgaria,Europe,1236000
+St. Petersburg ,73,0,CCC ,73,CCC ,Russia,Europe,4991000
+Stockholm ,16,9,A ,25,BBB ,Sweden,Europe,975904
+Sydney ,18,-4,A ,14,A ,Australia,Oceania,5230000
+Taipei City ,8,-1,A ,7,A ,China,Asia,2646000
+Tallinn ,59,new,B,,,Estonia,Europe,426538
+Tel Aviv ,50,-4,BB ,46,BB ,Isreal,Asia,435855
+The Hague ,28,1,BBB ,29,BBB ,The Netherlands,Europe,514861
+Tianjin ,63,-22,CCC ,41,BB ,China,Asia,15621200
+Tokyo ,79,-17,CCC ,62,B ,Japan,Asia,9273000
+Toronto ,30,-15,BBB ,15,A ,Canada,North America,2930000
+Vancouver ,19,-6,A ,13,A ,Canada,North America,675218
+Vienna ,25,-8,BBB ,17,BBB ,Austria,Europe,1897000
+Warsaw ,55,6,B ,61,B ,Poland,Europe,1765000
+Washington D.C. ,12,19,A ,31,BBB ,US,North America,684498
+Zaragoza ,48,1,BB ,49,BB ,Spain,Europe,666880
+Zhuhai ,62,-22,CCC ,40,BB ,China,Asia,1600000
+Zurich ,3,-1,AA ,2,AAA,Switzerland,Europe,402762
